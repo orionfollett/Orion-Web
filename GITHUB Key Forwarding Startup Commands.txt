@@ -1,0 +1,17 @@
+
+*************************QUICK START*********************************
+COMPUTER:
+
+eval `ssh-agent -s`
+
+ssh-add ~/.ssh/id_ed25519
+
+ssh ec2-user@18.211.19.37
+
+ssh -T git@github.com
+
+
+*********************************************************PI MAC ADDRESS****************************
+b827eb1aabd5
+
+b827eb1aabd5_broker
